@@ -1,0 +1,7 @@
+{
+  "architecture": "ARCH_V1",
+  "ssot": true,
+  "webrtc": "WRAPPED_SERVICE",
+  "signaling": "MQTT_SECURE_V1",
+  "token": "JWT_REQUIRED"
+}

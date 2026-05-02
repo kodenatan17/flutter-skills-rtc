@@ -1,0 +1,5 @@
+{
+  "feature": "video_call",
+  "agents": ["builder", "security"],
+  "skills": ["webrtc", "security"]
+}
