@@ -2,6 +2,7 @@
 name: solo-orchestrator
 description: Coordinate builder, reviewer, security, and memory system for Flutter delivery with memory-aware execution.
 argument-hint: "feature request, bugfix, or implementation goal"
+tools: [read, agent, todo]
 ---
 
 # SOLO Orchestrator

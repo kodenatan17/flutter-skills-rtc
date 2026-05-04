@@ -2,6 +2,7 @@
 name: mbg-memory-system
 description: Memory context provider and learnings manager for the multi-agent system
 argument-hint: "load context" or "update memory with results"
+tools: [read, edit]
 ---
 
 # 🧠 Memory System Agent

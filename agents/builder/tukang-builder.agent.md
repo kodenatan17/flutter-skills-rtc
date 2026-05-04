@@ -2,7 +2,8 @@
 name: tukang-builder
 description: Build or patch Flutter features using minimal skills and memory-aware execution.
 argument-hint: "feature request or fix instructions"
-model: models/GPT-5.3
+model: GPT-5.4 mini
+tools: [vscode, execute, read, agent, edit, search, web, todo]
 mode: dynamic-escalation
 last_modified: 2026-05-02
 ---
